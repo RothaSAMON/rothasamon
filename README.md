@@ -46,49 +46,47 @@
 
 
 
-<div >
+<div>
 
   ## Technical Skills
 
   <img src="https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 
-
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
-
 
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
   
-  
   <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-
 
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
 
-
   <img src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS" />
   
-
   <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="ExpressJS" />
   
-
   <img src="https://img.shields.io/badge/mongodb-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
   
-
   <img src="https://img.shields.io/badge/sequelize-%236591b5.svg?style=for-the-badge&logo=sequelize&logoColor=white" alt="Sequelize" />
-
-
-  <img src="https://img.shields.io/badge/Amazon%20S3-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS S3" />
   
-
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   
-
   <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next JS" />
   
-
   <img src="https://img.shields.io/badge/prisma-%232D3748.svg?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma" />
 
+  <!-- Added skills -->
+  <img src="https://img.shields.io/badge/Amazon%20RDS-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS RDS" />
+  
+  <img src="https://img.shields.io/badge/Amazon%20EC2-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS EC2" />
+  
+  <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" />
+  
+  <img src="https://img.shields.io/badge/PM2-%2300ACBD.svg?style=for-the-badge&logo=pm2&logoColor=white" alt="PM2" />
+
+  <img src="https://img.shields.io/badge/Amazon%20S3-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS S3" />
+
 </div>
+
 
 
 <!--
