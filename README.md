@@ -1,6 +1,6 @@
 ## Hi there 👋
 <div align="center">
-  As a junior web developer with a strong passion for technology, I am driven by the challenge of crafting innovative solutions and bringing creative ideas to life. My journey into web development has been enriched by hands-on experience building projects that solve real world problems and also reflect my dedication to clean code, efficient code and user-friendly design.
+  As a Junior Software Developer with a strong passion for technology, I am driven by the challenge of crafting innovative solutions and bringing creative ideas to life. My journey into web development has been enriched by hands-on experience building projects that solve real world problems and also reflect my dedication to clean code, efficient code and user-friendly design.
 </div>
 
 <div align="center">
@@ -74,7 +74,6 @@
   
   <img src="https://img.shields.io/badge/prisma-%232D3748.svg?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma" />
 
-  <!-- Added skills -->
   <img src="https://img.shields.io/badge/Amazon%20RDS-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS RDS" />
   
   <img src="https://img.shields.io/badge/Amazon%20EC2-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS EC2" />
@@ -85,7 +84,20 @@
 
   <img src="https://img.shields.io/badge/Amazon%20S3-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS S3" />
 
+  <!-- Newly Added Skills -->
+
+  <img src="https://img.shields.io/badge/Apache%20Airflow-%23017CEE.svg?style=for-the-badge&logo=apache-airflow&logoColor=white" alt="Apache Airflow" />
+
+  <img src="https://img.shields.io/badge/ClickHouse-%23FABA0F.svg?style=for-the-badge&logo=clickhouse&logoColor=black" alt="ClickHouse" />
+
+  <img src="https://img.shields.io/badge/Vue.js-%234FC08D.svg?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js" />
+
+  <img src="https://img.shields.io/badge/Nuxt.js-%2300C58E.svg?style=for-the-badge&logo=nuxt.js&logoColor=white" alt="Nuxt.js" />
+
+  <img src="https://img.shields.io/badge/NestJS-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
+
 </div>
+
 
 
 
